@@ -17,9 +17,9 @@ project:
 pinout:
   # Inputs
   ui[0]: "input a"
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: ""
+  ui[1]: "input b"
+  ui[2]: "input c"
+  ui[3]: "input d"
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
@@ -27,12 +27,12 @@ pinout:
 
   # Outputs
   uo[0]: "output a"
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
+  uo[1]: "output b"
+  uo[2]: "output c"
+  uo[3]: "output d"
+  uo[4]: "output e"
+  uo[5]: "output f"
+  uo[6]: "output g"
   uo[7]: ""
 
   # Bidirectional pins
