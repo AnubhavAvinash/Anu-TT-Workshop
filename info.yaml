@@ -32,7 +32,7 @@ pinout:
   uo[3]: "output d"
   uo[4]: "output e"
   uo[5]: "output f"
-  uo[6]: "output g"
+  uo[6]: " g"
   uo[7]: ""
 
   # Bidirectional pins
